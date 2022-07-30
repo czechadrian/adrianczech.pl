@@ -1,0 +1,11 @@
+baseURL: 'http://adrianczech.pl'
+languageCode: 'en-us'
+title: 'Adrian Czech'
+theme: "mini"
+
+copyright: '&copy; 2022 Adrian Czech.'
+
+
+socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/adrian-czech-0bb191157/
